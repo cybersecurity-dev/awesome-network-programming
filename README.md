@@ -13,3 +13,27 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+
+### The Transport Layer
+
+#### TCP
+
+#### UDP
+
+#### SCTP
+
+### Sockets Introduction
+
+### Elementary TCP Sockets
+
+### TCP Client/Server Example
+
+### I/O Multiplexing: 
+
+#### The select Function
+
+#### The poll Function
+
+### Socket Options
+
+### Elementary UDP Sockets
